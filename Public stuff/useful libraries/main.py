@@ -4,7 +4,7 @@ Install first:
 Then copy lelib.py from the SimpleLE repo into this project's folder.
 """
 
-# Ceci was here
+# Ceci was herey
 
 import time
 
