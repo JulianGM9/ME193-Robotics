@@ -14,3 +14,8 @@
 **/ehthumbs.db
 **/Thumbs.db
 **/desktop.ini
+
+# Python bytecode caches, ignored even inside "Public stuff"
+**/__pycache__/
+**/*.pyc
+**/*.pyo
