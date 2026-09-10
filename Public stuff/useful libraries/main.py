@@ -33,8 +33,8 @@ def DoRed():
 
 def DoYellow():
     print("yellow")
-
-
+    singlemotor.motor_set_speed(80)
+# Mia made this change
 
 def DoBlue():
     print("blue")
