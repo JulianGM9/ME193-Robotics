@@ -2,6 +2,7 @@
 # Everything else in this working directory is ignored on purpose.
 *
 !.gitignore
+!README.md
 !Public stuff/
 !Public stuff/**
 
