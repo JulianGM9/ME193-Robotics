@@ -1,5 +1,5 @@
 """
-Install first:
+Install first: Victor was here
     pip install legoeducation
 Then copy lelib.py from the SimpleLE repo into this project's folder.
 """
