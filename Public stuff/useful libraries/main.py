@@ -4,6 +4,8 @@ Install first:
 Then copy lelib.py from the SimpleLE repo into this project's folder.
 """
 
+# Ceci was here
+
 import time
 
 import legoeducation as le
