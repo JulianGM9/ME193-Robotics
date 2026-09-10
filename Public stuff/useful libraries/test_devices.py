@@ -9,7 +9,7 @@ color sensor and controller joysticks, then runs the double motor for
 2 rotations.
 
 Install first:
-    pip install legoeducation matplotlib
+    pip install legoeducation
 Then copy lelib.py from the SimpleLE repo into this project's folder.
 """
 

@@ -1,6 +1,6 @@
 """
 Install first:
-    pip install legoeducation matplotlib
+    pip install legoeducation
 Then copy lelib.py from the SimpleLE repo into this project's folder.
 """
 
